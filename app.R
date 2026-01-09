@@ -105,25 +105,7 @@ ui <- page_navbar(
       accordion_panel(
         "Sobre",
         p(
-          "A iniciativa apresentada durante a COP30 está diretamente vinculada ao desenvolvimento da Plataforma FioAres, um sistema integrado de monitoramento da qualidade do ar e vigilância em saúde, atualmente implantado em cinco cidades da Amazônia: Rio Branco, Porto Velho, Manaus, Belém e Santarém."
-        ),
-        p(
-          "A FioAres é desenvolvida pela Fundação Oswaldo Cruz – Fiocruz Piauí, com apoio técnico e operacional do Observatório de Clima e Saúde e da Plataforma de Ciência de Dados Aplicada à Saúde (PCDaS/ICICT-Fiocruz), e apoio institucional do Ministério do Meio Ambiente e Mudanças no Clima (MMA). "
-        ),
-        p(
-          "No território amazônico, a plataforma conta com um conjunto estratégico de parceiros locais, incluindo a Universidade Federal do Pará (UFPA), a Universidade Federal de Rondônia (UNIR), a Universidade do Estado do Amazonas (UEA), a Fiocruz Rondônia, por meio do Centro de Clima e Saúde de Rondônia (CCSRO), e o Instituto Leônidas & Maria Deane (ILMD/Fiocruz Amazônia). Esses parceiros contribuem diretamente para a operação, manutenção e produção de pesquisa aplicada sobre a qualidade do ar e seus impactos na saúde, fortalecendo a atuação territorial e colaborativa da plataforma na região. "
-        ),
-        p(
-          "A COP30 representa uma oportunidade fundamental para ampliar a visibilidade da FioAres e demonstrar seu potencial como ferramenta de monitoramento local, contínuo e em tempo real de diversos poluentes atmosféricos, contribuindo para a vigilância ambiental e para a comunicação de riscos em áreas altamente vulneráveis aos efeitos das mudanças climáticas e das queimadas."
-        ),
-        p(
-          "Para esta ação durante a COP30, foi instalada uma estação compacta Kunak Air, cedida em parceria com a ACOEM Brasil/JCTM, possibilitando a apresentação ao vivo dos indicadores de qualidade do ar monitorados durante o evento. A instalação, realizada em cooperação com o CENSIPAM, a UFPA, o Observatório de Clima e Saúde e a PCDaS, demonstra o compromisso da FioAres em fortalecer a vigilância da qualidade do ar na Amazônia e apoiar a tomada de decisão baseada em evidências."
-        ),
-        p("Apoio:"),
-        img(
-          src = "footer.png",
-          width = "600px",
-          align = "center"
+          "Estação de qualidade do ar instalada na Fiocruz Rondônia, em Porto Velho."
         ),
       ),
       accordion_panel(
